@@ -2,3 +2,4 @@ test sample
 追加です。
 add 変更をインデックスに登録する
 test2で追加したテキスト
+sampleで追加したテキスト
